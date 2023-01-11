@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a SysAdmin / Software Engineer / DevOps, Rubyist, Open Source Maintainer. I'm available to hire, you can contact me any time!
+I'm a SysAdmin / Software Engineer / DevOps, Rubyist, Open Source Maintainer. I'm available to hire, you can [contact me](http://www.nicoladmin.fr) any time!
 
 ### Languages
 
