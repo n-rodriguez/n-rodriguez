@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-SysAdmin / Software Engineer / DevOps, Rubyist, Open Source Maintainer.
+I'm a SysAdmin / Software Engineer / DevOps, Rubyist, Open Source Maintainer. I'm available to hire, you can contact me any time!
 
 ### Languages
 
