@@ -20,3 +20,9 @@ I'm a SysAdmin / Software Engineer / DevOps, Rubyist, Open Source Maintainer. I'
 [Crystal]: https://crystal-lang.org/
 [Bash]: https://mywiki.wooledge.org/BashGuide
 [JBox Web repositories]: https://github.com/orgs/jbox-web/repositories
+
+### Links
+
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="nicolas-rodriguez-0272ba263" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/nicolas-rodriguez-0272ba263?trk=profile-badge">Nicolas Rodriguez</a>
+</div>
