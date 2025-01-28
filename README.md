@@ -16,6 +16,10 @@ I'm a SysAdmin / Software Engineer / DevOps, Rubyist, Open Source Maintainer. I'
   <img align="center" height="215em" alt="n-rodriguez's github stats" src="https://github-readme-stats.vercel.app/api?username=n-rodriguez&theme=chartreuse-dark&show_icons=true" />
 </div>
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 [Ruby]: https://www.ruby-lang.org
 [Crystal]: https://crystal-lang.org/
 [Bash]: https://mywiki.wooledge.org/BashGuide
